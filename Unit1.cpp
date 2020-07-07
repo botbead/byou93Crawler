@@ -11,8 +11,8 @@
 TForm1 *Form1;
 // false--extracting delta, true--extracting brand new
 bool extracting_mode = false;
-const UnicodeString name = L"天空立法者";
-const UnicodeString pwd = L"why1983316";
+const UnicodeString name = L"YourName";
+const UnicodeString pwd = L"YourPassword";
 
 // ---------------------------------------------------------------------------
 __fastcall TForm1::TForm1(TComponent* Owner) : TForm(Owner) {
